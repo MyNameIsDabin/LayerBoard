@@ -1,8 +1,8 @@
 # LayerBoard
 
-> layout editor for cocos2d-x
+![LayerBoard](https://github.com/MyNameIsDabin/LayerBoard/blob/master/sample.png)
 
-[이미지](https://github.com/MyNameIsDabin/LayerBoard/blob/master/sample.png)
+layout editor for cocos2d-x
 
 #### Build Setup
 
