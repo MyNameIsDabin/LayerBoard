@@ -2,6 +2,8 @@
 
 > layout editor for cocos2d-x
 
+[이미지](https://github.com/MyNameIsDabin/LayerBoard/blob/master/sample.png)
+
 #### Build Setup
 
 ``` bash
